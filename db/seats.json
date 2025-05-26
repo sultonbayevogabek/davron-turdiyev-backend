@@ -1,0 +1,1022 @@
+{
+  "1-A": {
+    "tariff": "vip",
+    "status": "free",
+    "client": {
+      "name": "",
+      "phone": "",
+      "reservedAt": ""
+    },
+    "holder": ""
+  },
+  "1-B": {
+    "tariff": "vip",
+    "status": "free",
+    "client": {
+      "name": "",
+      "phone": "",
+      "reservedAt": ""
+    },
+    "holder": ""
+  },
+  "1-C": {
+    "tariff": "vip",
+    "status": "free",
+    "client": {
+      "name": "",
+      "phone": "",
+      "reservedAt": ""
+    },
+    "holder": ""
+  },
+  "1-D": {
+    "tariff": "vip",
+    "status": "free",
+    "client": {
+      "name": "",
+      "phone": "",
+      "reservedAt": ""
+    },
+    "holder": ""
+  },
+  "1-E": {
+    "tariff": "vip",
+    "status": "free",
+    "client": {
+      "name": "",
+      "phone": "",
+      "reservedAt": ""
+    },
+    "holder": ""
+  },
+  "1-F": {
+    "tariff": "vip",
+    "status": "free",
+    "client": {
+      "name": "",
+      "phone": "",
+      "reservedAt": ""
+    },
+    "holder": ""
+  },
+  "1-G": {
+    "tariff": "vip",
+    "status": "free",
+    "client": {
+      "name": "",
+      "phone": "",
+      "reservedAt": ""
+    },
+    "holder": ""
+  },
+  "1-H": {
+    "tariff": "vip",
+    "status": "free",
+    "client": {
+      "name": "",
+      "phone": "",
+      "reservedAt": ""
+    },
+    "holder": ""
+  },
+  "1-I": {
+    "tariff": "vip",
+    "status": "free",
+    "client": {
+      "name": "",
+      "phone": "",
+      "reservedAt": ""
+    },
+    "holder": ""
+  },
+  "1-J": {
+    "tariff": "vip",
+    "status": "free",
+    "client": {
+      "name": "",
+      "phone": "",
+      "reservedAt": ""
+    },
+    "holder": ""
+  },
+  "1-K": {
+    "tariff": "vip",
+    "status": "free",
+    "client": {
+      "name": "",
+      "phone": "",
+      "reservedAt": ""
+    },
+    "holder": ""
+  },
+  "1-L": {
+    "tariff": "vip",
+    "status": "free",
+    "client": {
+      "name": "",
+      "phone": "",
+      "reservedAt": ""
+    },
+    "holder": ""
+  },
+  "2-A": {
+    "tariff": "vip",
+    "status": "free",
+    "client": {
+      "name": "",
+      "phone": "",
+      "reservedAt": ""
+    },
+    "holder": ""
+  },
+  "2-B": {
+    "tariff": "vip",
+    "status": "free",
+    "client": {
+      "name": "",
+      "phone": "",
+      "reservedAt": ""
+    },
+    "holder": ""
+  },
+  "2-C": {
+    "tariff": "vip",
+    "status": "free",
+    "client": {
+      "name": "",
+      "phone": "",
+      "reservedAt": ""
+    },
+    "holder": ""
+  },
+  "2-D": {
+    "tariff": "vip",
+    "status": "free",
+    "client": {
+      "name": "",
+      "phone": "",
+      "reservedAt": ""
+    },
+    "holder": ""
+  },
+  "2-E": {
+    "tariff": "vip",
+    "status": "free",
+    "client": {
+      "name": "",
+      "phone": "",
+      "reservedAt": ""
+    },
+    "holder": ""
+  },
+  "2-F": {
+    "tariff": "vip",
+    "status": "free",
+    "client": {
+      "name": "",
+      "phone": "",
+      "reservedAt": ""
+    },
+    "holder": ""
+  },
+  "2-G": {
+    "tariff": "vip",
+    "status": "free",
+    "client": {
+      "name": "",
+      "phone": "",
+      "reservedAt": ""
+    },
+    "holder": ""
+  },
+  "2-H": {
+    "tariff": "vip",
+    "status": "free",
+    "client": {
+      "name": "",
+      "phone": "",
+      "reservedAt": ""
+    },
+    "holder": ""
+  },
+  "2-I": {
+    "tariff": "vip",
+    "status": "free",
+    "client": {
+      "name": "",
+      "phone": "",
+      "reservedAt": ""
+    },
+    "holder": ""
+  },
+  "2-J": {
+    "tariff": "vip",
+    "status": "free",
+    "client": {
+      "name": "",
+      "phone": "",
+      "reservedAt": ""
+    },
+    "holder": ""
+  },
+  "2-K": {
+    "tariff": "vip",
+    "status": "free",
+    "client": {
+      "name": "",
+      "phone": "",
+      "reservedAt": ""
+    },
+    "holder": ""
+  },
+  "2-L": {
+    "tariff": "vip",
+    "status": "free",
+    "client": {
+      "name": "",
+      "phone": "",
+      "reservedAt": ""
+    },
+    "holder": ""
+  },
+  "2-M": {
+    "tariff": "vip",
+    "status": "free",
+    "client": {
+      "name": "",
+      "phone": "",
+      "reservedAt": ""
+    },
+    "holder": ""
+  },
+  "3-A": {
+    "tariff": "premium",
+    "status": "free",
+    "client": {
+      "name": "",
+      "phone": "",
+      "reservedAt": ""
+    },
+    "holder": ""
+  },
+  "3-B": {
+    "tariff": "premium",
+    "status": "free",
+    "client": {
+      "name": "",
+      "phone": "",
+      "reservedAt": ""
+    },
+    "holder": ""
+  },
+  "3-C": {
+    "tariff": "premium",
+    "status": "free",
+    "client": {
+      "name": "",
+      "phone": "",
+      "reservedAt": ""
+    },
+    "holder": ""
+  },
+  "3-D": {
+    "tariff": "premium",
+    "status": "free",
+    "client": {
+      "name": "",
+      "phone": "",
+      "reservedAt": ""
+    },
+    "holder": ""
+  },
+  "3-E": {
+    "tariff": "premium",
+    "status": "free",
+    "client": {
+      "name": "",
+      "phone": "",
+      "reservedAt": ""
+    },
+    "holder": ""
+  },
+  "3-F": {
+    "tariff": "premium",
+    "status": "free",
+    "client": {
+      "name": "",
+      "phone": "",
+      "reservedAt": ""
+    },
+    "holder": ""
+  },
+  "3-G": {
+    "tariff": "premium",
+    "status": "free",
+    "client": {
+      "name": "",
+      "phone": "",
+      "reservedAt": ""
+    },
+    "holder": ""
+  },
+  "3-H": {
+    "tariff": "premium",
+    "status": "free",
+    "client": {
+      "name": "",
+      "phone": "",
+      "reservedAt": ""
+    },
+    "holder": ""
+  },
+  "3-I": {
+    "tariff": "premium",
+    "status": "free",
+    "client": {
+      "name": "",
+      "phone": "",
+      "reservedAt": ""
+    },
+    "holder": ""
+  },
+  "3-J": {
+    "tariff": "premium",
+    "status": "free",
+    "client": {
+      "name": "",
+      "phone": "",
+      "reservedAt": ""
+    },
+    "holder": ""
+  },
+  "3-K": {
+    "tariff": "premium",
+    "status": "free",
+    "client": {
+      "name": "",
+      "phone": "",
+      "reservedAt": ""
+    },
+    "holder": ""
+  },
+  "3-L": {
+    "tariff": "premium",
+    "status": "free",
+    "client": {
+      "name": "",
+      "phone": "",
+      "reservedAt": ""
+    },
+    "holder": ""
+  },
+  "3-M": {
+    "tariff": "premium",
+    "status": "free",
+    "client": {
+      "name": "",
+      "phone": "",
+      "reservedAt": ""
+    },
+    "holder": ""
+  },
+  "3-N": {
+    "tariff": "premium",
+    "status": "free",
+    "client": {
+      "name": "",
+      "phone": "",
+      "reservedAt": ""
+    },
+    "holder": ""
+  },
+  "3-O": {
+    "tariff": "premium",
+    "status": "free",
+    "client": {
+      "name": "",
+      "phone": "",
+      "reservedAt": ""
+    },
+    "holder": ""
+  },
+  "3-P": {
+    "tariff": "premium",
+    "status": "free",
+    "client": {
+      "name": "",
+      "phone": "",
+      "reservedAt": ""
+    },
+    "holder": ""
+  },
+  "3-Q": {
+    "tariff": "premium",
+    "status": "free",
+    "client": {
+      "name": "",
+      "phone": "",
+      "reservedAt": ""
+    },
+    "holder": ""
+  },
+  "3-R": {
+    "tariff": "premium",
+    "status": "free",
+    "client": {
+      "name": "",
+      "phone": "",
+      "reservedAt": ""
+    },
+    "holder": ""
+  },
+  "4-A": {
+    "tariff": "premium",
+    "status": "free",
+    "client": {
+      "name": "",
+      "phone": "",
+      "reservedAt": ""
+    },
+    "holder": ""
+  },
+  "4-B": {
+    "tariff": "premium",
+    "status": "free",
+    "client": {
+      "name": "",
+      "phone": "",
+      "reservedAt": ""
+    },
+    "holder": ""
+  },
+  "4-C": {
+    "tariff": "premium",
+    "status": "free",
+    "client": {
+      "name": "",
+      "phone": "",
+      "reservedAt": ""
+    },
+    "holder": ""
+  },
+  "4-D": {
+    "tariff": "premium",
+    "status": "free",
+    "client": {
+      "name": "",
+      "phone": "",
+      "reservedAt": ""
+    },
+    "holder": ""
+  },
+  "4-E": {
+    "tariff": "premium",
+    "status": "free",
+    "client": {
+      "name": "",
+      "phone": "",
+      "reservedAt": ""
+    },
+    "holder": ""
+  },
+  "4-F": {
+    "tariff": "premium",
+    "status": "free",
+    "client": {
+      "name": "",
+      "phone": "",
+      "reservedAt": ""
+    },
+    "holder": ""
+  },
+  "4-G": {
+    "tariff": "premium",
+    "status": "free",
+    "client": {
+      "name": "",
+      "phone": "",
+      "reservedAt": ""
+    },
+    "holder": ""
+  },
+  "4-H": {
+    "tariff": "premium",
+    "status": "free",
+    "client": {
+      "name": "",
+      "phone": "",
+      "reservedAt": ""
+    },
+    "holder": ""
+  },
+  "4-I": {
+    "tariff": "premium",
+    "status": "free",
+    "client": {
+      "name": "",
+      "phone": "",
+      "reservedAt": ""
+    },
+    "holder": ""
+  },
+  "4-J": {
+    "tariff": "premium",
+    "status": "free",
+    "client": {
+      "name": "",
+      "phone": "",
+      "reservedAt": ""
+    },
+    "holder": ""
+  },
+  "4-K": {
+    "tariff": "premium",
+    "status": "free",
+    "client": {
+      "name": "",
+      "phone": "",
+      "reservedAt": ""
+    },
+    "holder": ""
+  },
+  "4-L": {
+    "tariff": "premium",
+    "status": "free",
+    "client": {
+      "name": "",
+      "phone": "",
+      "reservedAt": ""
+    },
+    "holder": ""
+  },
+  "4-M": {
+    "tariff": "premium",
+    "status": "free",
+    "client": {
+      "name": "",
+      "phone": "",
+      "reservedAt": ""
+    },
+    "holder": ""
+  },
+  "4-N": {
+    "tariff": "premium",
+    "status": "free",
+    "client": {
+      "name": "",
+      "phone": "",
+      "reservedAt": ""
+    },
+    "holder": ""
+  },
+  "4-O": {
+    "tariff": "premium",
+    "status": "free",
+    "client": {
+      "name": "",
+      "phone": "",
+      "reservedAt": ""
+    },
+    "holder": ""
+  },
+  "4-P": {
+    "tariff": "premium",
+    "status": "free",
+    "client": {
+      "name": "",
+      "phone": "",
+      "reservedAt": ""
+    },
+    "holder": ""
+  },
+  "4-Q": {
+    "tariff": "premium",
+    "status": "free",
+    "client": {
+      "name": "",
+      "phone": "",
+      "reservedAt": ""
+    },
+    "holder": ""
+  },
+  "4-R": {
+    "tariff": "premium",
+    "status": "free",
+    "client": {
+      "name": "",
+      "phone": "",
+      "reservedAt": ""
+    },
+    "holder": ""
+  },
+  "4-S": {
+    "tariff": "premium",
+    "status": "free",
+    "client": {
+      "name": "",
+      "phone": "",
+      "reservedAt": ""
+    },
+    "holder": ""
+  },
+  "5-A": {
+    "tariff": "premium",
+    "status": "free",
+    "client": {
+      "name": "",
+      "phone": "",
+      "reservedAt": ""
+    },
+    "holder": ""
+  },
+  "5-B": {
+    "tariff": "premium",
+    "status": "free",
+    "client": {
+      "name": "",
+      "phone": "",
+      "reservedAt": ""
+    },
+    "holder": ""
+  },
+  "5-C": {
+    "tariff": "premium",
+    "status": "free",
+    "client": {
+      "name": "",
+      "phone": "",
+      "reservedAt": ""
+    },
+    "holder": ""
+  },
+  "5-D": {
+    "tariff": "premium",
+    "status": "free",
+    "client": {
+      "name": "",
+      "phone": "",
+      "reservedAt": ""
+    },
+    "holder": ""
+  },
+  "5-E": {
+    "tariff": "premium",
+    "status": "free",
+    "client": {
+      "name": "",
+      "phone": "",
+      "reservedAt": ""
+    },
+    "holder": ""
+  },
+  "5-F": {
+    "tariff": "premium",
+    "status": "free",
+    "client": {
+      "name": "",
+      "phone": "",
+      "reservedAt": ""
+    },
+    "holder": ""
+  },
+  "5-G": {
+    "tariff": "premium",
+    "status": "free",
+    "client": {
+      "name": "",
+      "phone": "",
+      "reservedAt": ""
+    },
+    "holder": ""
+  },
+  "5-H": {
+    "tariff": "premium",
+    "status": "free",
+    "client": {
+      "name": "",
+      "phone": "",
+      "reservedAt": ""
+    },
+    "holder": ""
+  },
+  "5-I": {
+    "tariff": "premium",
+    "status": "free",
+    "client": {
+      "name": "",
+      "phone": "",
+      "reservedAt": ""
+    },
+    "holder": ""
+  },
+  "5-J": {
+    "tariff": "premium",
+    "status": "free",
+    "client": {
+      "name": "",
+      "phone": "",
+      "reservedAt": ""
+    },
+    "holder": ""
+  },
+  "5-K": {
+    "tariff": "premium",
+    "status": "free",
+    "client": {
+      "name": "",
+      "phone": "",
+      "reservedAt": ""
+    },
+    "holder": ""
+  },
+  "5-L": {
+    "tariff": "premium",
+    "status": "free",
+    "client": {
+      "name": "",
+      "phone": "",
+      "reservedAt": ""
+    },
+    "holder": ""
+  },
+  "5-M": {
+    "tariff": "premium",
+    "status": "free",
+    "client": {
+      "name": "",
+      "phone": "",
+      "reservedAt": ""
+    },
+    "holder": ""
+  },
+  "5-N": {
+    "tariff": "premium",
+    "status": "free",
+    "client": {
+      "name": "",
+      "phone": "",
+      "reservedAt": ""
+    },
+    "holder": ""
+  },
+  "5-O": {
+    "tariff": "premium",
+    "status": "free",
+    "client": {
+      "name": "",
+      "phone": "",
+      "reservedAt": ""
+    },
+    "holder": ""
+  },
+  "5-P": {
+    "tariff": "premium",
+    "status": "free",
+    "client": {
+      "name": "",
+      "phone": "",
+      "reservedAt": ""
+    },
+    "holder": ""
+  },
+  "5-Q": {
+    "tariff": "premium",
+    "status": "free",
+    "client": {
+      "name": "",
+      "phone": "",
+      "reservedAt": ""
+    },
+    "holder": ""
+  },
+  "5-R": {
+    "tariff": "premium",
+    "status": "free",
+    "client": {
+      "name": "",
+      "phone": "",
+      "reservedAt": ""
+    },
+    "holder": ""
+  },
+  "5-S": {
+    "tariff": "premium",
+    "status": "free",
+    "client": {
+      "name": "",
+      "phone": "",
+      "reservedAt": ""
+    },
+    "holder": ""
+  },
+  "5-T": {
+    "tariff": "premium",
+    "status": "free",
+    "client": {
+      "name": "",
+      "phone": "",
+      "reservedAt": ""
+    },
+    "holder": ""
+  },
+  "6-A": {
+    "tariff": "premium",
+    "status": "free",
+    "client": {
+      "name": "",
+      "phone": "",
+      "reservedAt": ""
+    },
+    "holder": ""
+  },
+  "6-B": {
+    "tariff": "premium",
+    "status": "free",
+    "client": {
+      "name": "",
+      "phone": "",
+      "reservedAt": ""
+    },
+    "holder": ""
+  },
+  "6-C": {
+    "tariff": "premium",
+    "status": "free",
+    "client": {
+      "name": "",
+      "phone": "",
+      "reservedAt": ""
+    },
+    "holder": ""
+  },
+  "6-D": {
+    "tariff": "premium",
+    "status": "free",
+    "client": {
+      "name": "",
+      "phone": "",
+      "reservedAt": ""
+    },
+    "holder": ""
+  },
+  "6-E": {
+    "tariff": "premium",
+    "status": "free",
+    "client": {
+      "name": "",
+      "phone": "",
+      "reservedAt": ""
+    },
+    "holder": ""
+  },
+  "6-F": {
+    "tariff": "premium",
+    "status": "free",
+    "client": {
+      "name": "",
+      "phone": "",
+      "reservedAt": ""
+    },
+    "holder": ""
+  },
+  "6-G": {
+    "tariff": "premium",
+    "status": "free",
+    "client": {
+      "name": "",
+      "phone": "",
+      "reservedAt": ""
+    },
+    "holder": ""
+  },
+  "6-H": {
+    "tariff": "premium",
+    "status": "free",
+    "client": {
+      "name": "",
+      "phone": "",
+      "reservedAt": ""
+    },
+    "holder": ""
+  },
+  "6-I": {
+    "tariff": "premium",
+    "status": "free",
+    "client": {
+      "name": "",
+      "phone": "",
+      "reservedAt": ""
+    },
+    "holder": ""
+  },
+  "6-J": {
+    "tariff": "premium",
+    "status": "free",
+    "client": {
+      "name": "",
+      "phone": "",
+      "reservedAt": ""
+    },
+    "holder": ""
+  },
+  "6-K": {
+    "tariff": "premium",
+    "status": "free",
+    "client": {
+      "name": "",
+      "phone": "",
+      "reservedAt": ""
+    },
+    "holder": ""
+  },
+  "6-L": {
+    "tariff": "premium",
+    "status": "free",
+    "client": {
+      "name": "",
+      "phone": "",
+      "reservedAt": ""
+    },
+    "holder": ""
+  },
+  "6-M": {
+    "tariff": "premium",
+    "status": "free",
+    "client": {
+      "name": "",
+      "phone": "",
+      "reservedAt": ""
+    },
+    "holder": ""
+  },
+  "6-N": {
+    "tariff": "premium",
+    "status": "free",
+    "client": {
+      "name": "",
+      "phone": "",
+      "reservedAt": ""
+    },
+    "holder": ""
+  },
+  "6-O": {
+    "tariff": "premium",
+    "status": "free",
+    "client": {
+      "name": "",
+      "phone": "",
+      "reservedAt": ""
+    },
+    "holder": ""
+  },
+  "6-P": {
+    "tariff": "premium",
+    "status": "free",
+    "client": {
+      "name": "",
+      "phone": "",
+      "reservedAt": ""
+    },
+    "holder": ""
+  },
+  "6-Q": {
+    "tariff": "premium",
+    "status": "free",
+    "client": {
+      "name": "",
+      "phone": "",
+      "reservedAt": ""
+    },
+    "holder": ""
+  },
+  "6-R": {
+    "tariff": "premium",
+    "status": "free",
+    "client": {
+      "name": "",
+      "phone": "",
+      "reservedAt": ""
+    },
+    "holder": ""
+  },
+  "6-S": {
+    "tariff": "premium",
+    "status": "free",
+    "client": {
+      "name": "",
+      "phone": "",
+      "reservedAt": ""
+    },
+    "holder": ""
+  },
+  "6-T": {
+    "tariff": "premium",
+    "status": "free",
+    "client": {
+      "name": "",
+      "phone": "",
+      "reservedAt": ""
+    },
+    "holder": ""
+  }
+}
